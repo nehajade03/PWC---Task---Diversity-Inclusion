@@ -9,13 +9,6 @@
 - [Data Analysis (DAX)](#data-analysis-dax)
 - [Data Visualization (Dashboard)](#data-visualization-dashboard)
 - [Insights](#insights)
-  
-
-
-
-
-
-
 
 
 ## **Problem Statement**
