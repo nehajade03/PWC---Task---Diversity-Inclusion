@@ -95,51 +95,120 @@ Data visualization for the data analysis (DAX) was done in Microsoft Power BI De
 
 **Dashboard:**
 Diversity and inclusion dashboard - 1 
-![image](https://github.com/user-attachments/assets/07108b93-9d68-4d1a-8675-07759922d265)
 
+![image](https://github.com/user-attachments/assets/337d5947-15c9-4474-89a8-e1417fb29b7a)
 
 Diversity and inclusion dashboard - 2
-![image](https://github.com/user-attachments/assets/03db1651-96cb-4344-ae21-5a320b5dee46)
 
-
-
-
+![image](https://github.com/user-attachments/assets/d789544f-31fe-478f-9228-ec9892c971a3)
 
 
 ##  **Insights**
- **Workforce and Hiring:**
-
- - 59% Male and 41% Female hires.
-
- - Women had a slightly higher average rating (2.42) than men (2.41).
-
-**Promotions by Job Level:**
-
- - Junior Officer: Highest female representation (53% post-promotion).
-
- - Senior Levels (Executive/Director): Male dominance (87%-88% Male).
-
-**Turnover Trends:**
-
-- Finance had the highest turnover (11.76%), while HR had the lowest (6.06%).
-
-- Turnover by performance rating: Higher among males (56%-63% Male).
-
-**Leavers and New Hires:**
-
-- Leavers: 55% Male, 45% Female.
-
-- New Hires: 59% Male, 41% Female.
-
-**Age Distribution:**
-
-- 20-29 age group dominates with 223 employees, followed by 30-39.
 
 
+ **Workforce and Hiring Analysis**
+
+- Gender Distribution of Hires:
+  
+  59% of new hires were male, while 41% were female.
+  
+   Average performance ratings were slightly higher for women (2.42) compared to men (2.41).
+
+**Promotions by Job Level**
+
+- Junior Officers:
+  
+  Women held the majority of promotions at this level, accounting for 53% of post-promotion roles.
+  
+ - Senior Levels (Executive/Director):
+   
+     Promotions were predominantly male, with 87%-88% of these roles occupied by men.
+
+**Turnover Insights**
+
+- By Department:
+  
+    The Finance department exhibited the highest turnover rate (11.76%), while HR had the lowest (6.06%).
+  
+- By Performance Rating:
+  
+    Turnover was disproportionately higher among males, ranging from 56% to 63% based on performance ratings.
+
+**Employee Movement**
+
+- Leavers:
+  
+    Male employees accounted for 55% of leavers, while females made up 45%.
+  
+- New Hires:
+  
+    The hiring pattern mirrored the leaver statistics, with 59% male and 41% female representation.
+
+ - Workforce Age Distribution 
+
+    Employees aged 20-29 formed the largest demographic, totaling 223 individuals, followed by those aged 30-39.
 
 
+# **﻿Recommendations**
+**Workforce and Gender Diversity**
 
+- Balanced Hiring Practices:
+   
+    To achieve greater gender parity, implement targeted hiring programs to increase female representation, particularly in senior roles where male dominance is pronounced.
+    Diversity Training:
+  
+    Introduce bias-awareness and exclusivity training for hiring managers to reduce unconscious biases in recruitment and promotions.
 
+**Promotions by Job Level**
+ - Mentorship Programs for Women:
+   
+    Create mentorship and leadership development programs for women to bridge the gender gap in senior executive and director-level roles.
+   
+ - Transparent Promotion Criteria:
+   
+    Develop clear, data-driven promotion criteria to ensure fairness and encourage female participation in higher job levels.
+
+**Turnover Management**
+
+  - Retention Strategies for Finance Department:
+    
+       Address high turnover in the Finance department through employee engagement initiatives, workload management, and competitive compensation packages.
+    
+   - Performance-Based Retention:
+     
+       Monitor and support employees with lower performance ratings to reduce turnover rates, particularly among males, by providing training and development opportunities.
+
+**Leavers and New Hires**
+
+  - Exit Interviews: 
+    
+      Conduct structured exit interviews to identify and address underlying reasons for turnover among both genders.
+    
+ - Focus on Female Retention:
+    
+     Strengthen retention policies for women to balance the disparity between leavers and new hires.
+
+**Age Group Engagement**
+
+   - Career Development for Young Employees:
+     
+     With the 20-29 age group being dominant, implement career progression plans and skill development opportunities to retain and grow talent in this segment.
+    
+   - Engagement Strategies for 30-39 Age Group:
+    
+     Focus on flexible working arrangements and professional growth opportunities to sustain engagement with this demographic.
+
+**General Recommendations**
+
+   - Data-Driven Decisions:
+      
+     Regularly analyze workforce data to identify emerging trends and proactively address gender, age, or department-based disparities.
+    
+  - Diversity Goals:
+    
+    Establish measurable diversity and inclusion goals tied to recruitment, retention, and promotion policies.
+
+By implementing these recommendations, the organization can improve diversity, reduce turnover, and foster an inclusive and equitable workplace culture.
 
 
 
